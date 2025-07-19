@@ -31,12 +31,7 @@ A modern and visually appealing weather application that provides real-time weat
 
 ---
 
-## 🚀 Live Demo
 
-> [View Project on GitHub Pages](https://yourusername.github.io/WEATHER/)  
-*(Replace with your actual GitHub Pages link if hosted)*
-
----
 
 ## 📁 How to Run Locally
 
